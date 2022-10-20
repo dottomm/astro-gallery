@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/project.astro
+layout: ../../../layouts/project.astro
 title: John Doe Trio
 client: Self
 publishDate: 2022-10-15 00:00:00
